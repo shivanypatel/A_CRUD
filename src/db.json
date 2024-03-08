@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "salutaion": "Mr",
+      "fristName": "Shivany",
+      "lastName": "uuuuuuuu",
+      "email": "shivany227@gmail.com",
+      "phone": "8780943065",
+      "age": 23,
+      "accountNumber": 123456789,
+      "checkboxControl": true,
+      "selectedCountry": "in",
+      "code": "+91",
+      "id": "b794"
+    },
+    {
+      "salutaion": "Miss",
+      "fristName": "ddddddd",
+      "lastName": "dddddddd",
+      "email": "shivany227@gmail.com",
+      "phone": "7678904352",
+      "age": 23,
+      "accountNumber": 12345678900,
+      "checkboxControl": true,
+      "selectedCountry": "in",
+      "code": "+91",
+      "id": "cb7d"
+    }
+  ],
+  "auth": [
+    {
+      "id": "db07",
+      "userName": "ssdsdss",
+      "email": "vidhi12@gmail.com",
+      "password": "12345",
+      "confirmpassword": "12345"
+    },
+    {
+      "id": "3478",
+      "userName": "Shivany",
+      "email": "shivany227@gmail.com",
+      "password": "55555",
+      "confirmpassword": "55555"
+    },
+    {
+      "id": "388e",
+      "userName": "ram",
+      "email": "ram12@gmail.com",
+      "password": "99999",
+      "confirmpassword": "99999"
+    },
+    {
+      "id": "4780",
+      "userName": "hhhhhh",
+      "email": "h2@gmail.com",
+      "password": "2207",
+      "confirmpassword": "2207"
+    }
+  ]
+}

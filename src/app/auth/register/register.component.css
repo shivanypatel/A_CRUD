@@ -1,0 +1,13 @@
+.form-container {
+    border: 1px solid #ced4da; 
+    border-radius: 3px; 
+    padding: 5px; 
+    margin-bottom: 5px; 
+}
+
+.form-group label.font-weight-bold {
+    font-weight: bold;
+}
+.input-short {
+    width: 200px; 
+}
